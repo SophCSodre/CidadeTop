@@ -12,6 +12,21 @@
         android:theme="@style/Theme.CidadeTop"
         tools:targetApi="31">
         <activity
+            android:name=".ContatoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DicasActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DocumentosActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PerfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PoliciaActivity"
+            android:exported="false" />
+        <activity
             android:name=".SobreActivity"
             android:exported="false" />
         <activity
